@@ -2,6 +2,7 @@
 
 # Unobtrusive item changed.
 # This code was written because none of carousels these days available was not working as I required.
+# As you can see, this code was converted from Javascript to Coffeescript.
 
 # It's used on various websites we authored :
 # http://www.kickthewaves.com/
